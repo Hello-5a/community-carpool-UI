@@ -1,5 +1,3 @@
 # Community Carpool
 
-This is the community carpool app. 
- 
-.
+This is the community carpool app...
